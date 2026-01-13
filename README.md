@@ -70,5 +70,34 @@ Two appendices clarify genericity, stability assumptions, and provide illustrati
 
 ---
 
-## Structure
+## Intended Audience
+
+- Researchers in foundations of physics
+- Theoretical physicists interested in variational principles
+- Philosophers of physics
+- Mathematical physicists working on spacetime structure
+
+---
+
+## Status
+
+- Paper I: Conceptual framework complete (https://doi.org/10.5281/zenodo.18229209)
+- Paper II: Axiomatic framework complete (https://doi.org/10.5281/zenodo.18229213)
+- Both papers are intended for submission to foundations-oriented journals
+
+---
+
+## License and Use
+
+This repository is provided for academic and research purposes.  
+If you use or build upon these ideas, please cite the corresponding paper(s).
+
+---
+
+## Contact
+
+Author: *[Your Name]*  
+Affiliation: *[Your Institution]*
+
+
 
